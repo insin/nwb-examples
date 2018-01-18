@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-web-app",
+  "version": "1.0.0",
+  "description": "Example of configuring a web-app project for Bootstrap 4 and its dependencies",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-web-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-web-app --reload"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "jquery": "3.x",
+    "popper.js": "1.x"
+  },
+  "devDependencies": {
+    "nwb": "0.21.x"
+  },
+  "license": "MIT"
+}

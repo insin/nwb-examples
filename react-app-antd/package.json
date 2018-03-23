@@ -18,7 +18,8 @@
   },
   "devDependencies": {
     "babel-plugin-import": "1.x",
-    "nwb": "0.22.x"
+    "nwb": "0.22.x",
+    "nwb-less": "0.7.x"
   },
   "author": "",
   "license": "MIT",

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Playfair Display Bold";
+  src: url("./assets/PlayfairDisplay-Bold.ttf") format("truetype");
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.App {
+  font-family: "Playfair Display Bold";
+  font-size: 5vw;
+  display: grid;
+  height: 100vh;
+  margin: 0;
+  place-items: center center;
+}
